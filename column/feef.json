@@ -1,0 +1,40 @@
+{
+    "layout": [
+        {
+            "name": "A",
+            "width": 100,
+            "height": 100,
+            "left": 0,
+            "top": 0,
+            "horizontal": "fixed",
+            "vertical": "fixed"
+        },
+        {
+            "name": "B",
+            "width": 100,
+            "height": 100,
+            "left": 0,
+            "top": 100,
+            "horizontal": "take_space",
+            "vertical": "take_space"
+        },
+        {
+            "name": "C",
+            "width": 100,
+            "height": 100,
+            "left": 0,
+            "top": 200,
+            "horizontal": "take_space",
+            "vertical": "take_space"
+        },
+        {
+            "name": "D",
+            "width": 100,
+            "height": 100,
+            "left": 0,
+            "top": 300,
+            "horizontal": "fixed",
+            "vertical": "fixed"
+        }
+    ]
+}
