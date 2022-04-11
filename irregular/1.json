@@ -40,7 +40,7 @@
             "name": "E",
             "width": 100,
             "height": 300,
-            "left": 600,
+            "left": 800,
             "top": 0,
             "horizontal": "take_space",
             "vertical": "take_space"
